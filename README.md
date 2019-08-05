@@ -38,8 +38,6 @@ yarn start
 
 6. Use Thunk
 
-* Install redux-thunk module
-
 * Using setTimeout function, dispatch an event before and after the timeout in the action.
 
 7. Setup Middleware
